@@ -1,0 +1,5 @@
+yolo-coco/yolov3.weights
+input
+output
+**/output
+**/input
