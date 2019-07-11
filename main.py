@@ -18,8 +18,8 @@ memory = {}
 # line = [(59, 555), (964, 578)]		#line for VID 1
 # line = [(88, 582), (740, 590)]		#line for VID 2
 # line = [(290, 542), (1163, 531)]		#line for VID 3
-# line = [(47, 495), (1221, 500)]		#line for VID 4
-line = [(137, 500), (1073, 500)]		#line for VID 5
+line = [(47, 495), (1221, 500)]		#line for VID 4
+# line = [(137, 500), (1073, 500)]		#line for VID 5
 counter = 0
 
 ##
